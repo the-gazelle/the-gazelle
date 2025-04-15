@@ -27,6 +27,8 @@ Here are my goals in order:
 
 I figured that a good way to start would be to create a Github account, and use the tools of the trade to document my journey.
 
+[Homepage](Notes/homepage.md)
+
 ## Paul Tully
 
 Funny side note, literally as I was starting to type up this markup, my wife's grandfather started telling me stories of when he was working on IBM's back in the 70's.
